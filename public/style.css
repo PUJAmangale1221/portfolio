@@ -562,3 +562,13 @@ body.dark-theme {
     margin: 4.5rem 0 2.5rem;
   }
 }
+
+@media screen and (max-width: 992px) {
+
+.profile__perfil img {
+  height: 100px;
+  width: auto;
+}
+
+
+}
